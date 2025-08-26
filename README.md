@@ -18,10 +18,10 @@ Built a dynamic dashboard to explore product and regional sales performance usin
 
 ---
 
-### 🎵 Spotify Music Analysis
-**Tools:** R, ggplot2  
-Explored Spotify music trends based on track features and popularity metrics.  
-🔗 [View Project](./projects/spotify-data-eda)
+### 🎵 Applied Data Science Capstone 
+**Tools:** Python (Pandas, Plotly, Seaborn), Jupyter Notebook  
+Developed interactive dashboards. Summarized insights for operational improvements.  
+🔗 [View Project](https://github.com/Pankati/Capstone)
 
 ---
 
