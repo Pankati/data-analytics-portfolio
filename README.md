@@ -4,11 +4,10 @@ Welcome! I'm a data analyst passionate about transforming data into actionable i
 
 ## 🔍 Featured Projects
 
-### 🔌 Energy Load Analysis
-**Tools:** Power BI, SQL  
-Analyzed electricity consumption trends to identify peak load periods and improve resource planning.  
+### 🔌 IBM Data Analyst Capstone Project
+**Tools:** Python, Excel, Cognos Analytics  
+Built interactive dashboards and KPIs. Presented actionable insights to simulate real-world stakeholder reporting.  
 🔗 [View Project](https://github.com/Pankati/Data-Analyst-Capstone)
-🔗 [View Project](./projects/energy-load-analysis)
 
 ---
 
