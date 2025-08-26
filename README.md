@@ -7,6 +7,7 @@ Welcome! I'm a data analyst passionate about transforming data into actionable i
 ### 🔌 Energy Load Analysis
 **Tools:** Power BI, SQL  
 Analyzed electricity consumption trends to identify peak load periods and improve resource planning.  
+🔗 [View Project](https://github.com/Pankati/Data-Analyst-Capstone)
 🔗 [View Project](./projects/energy-load-analysis)
 
 ---
