@@ -4,6 +4,16 @@ Welcome! I'm a data analyst passionate about transforming data into actionable i
 
 ## 🔍 Featured Projects
 
+### 🍽️ Restaurant Recommendation Analysis
+**Tools:** Python (Pandas, numpy, matplotlib, Seaborn), Jupyter Notebook
+
+Analyzed restaurant data using Python (Pandas, NumPy, Seaborn, Matplotlib) to identify top-performing “star” restaurants and generate recommendation insights.
+Performed data cleaning, exploratory analysis, and developed ranking matrices to support data-driven decision-making.
+
+🔗 [View Project](https://github.com/Pankati/project1/tree/main)
+
+---
+
 ### 🔌 IBM Data Analyst Capstone Project
 **Tools:** Python, Excel, Cognos Analytics  
 Built interactive dashboards and KPIs. Presented actionable insights to simulate real-world stakeholder reporting.  
