@@ -11,10 +11,10 @@ Built interactive dashboards and KPIs. Presented actionable insights to simulate
 
 ---
 
-### 🛍️ Retail Sales Dashboard
+### 🛍️ Online Retail Exploratory Data Analysis with Python
 **Tools:** Power BI, Excel  
 Built a dynamic dashboard to explore product and regional sales performance using historical retail data.  
-🔗 [View Project](./projects/retail-sales-dashboard)
+🔗 [View Project](https://github.com/Pankati/Portfolio-Project-Online-Retail-Exploratory-Data-Analysis-with-Python)
 
 ---
 
