@@ -4,23 +4,24 @@ Welcome! I'm a data analyst passionate about transforming data into actionable i
 
 ## 🔍 Featured Projects
 
-### 🍽️ Restaurant Recommendation Analysis
-**Tools:** Python (Pandas, numpy, matplotlib, Seaborn), Jupyter Notebook
+### 🚀 SpaceX Falcon 9 First Stage Landing Prediction (IBM Data Science Capstone Project )
+**Tools:** - Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn), SQL (for querying and preprocessing), Jupyter Notebook, IBM Watson Studio / Cloud services (for deployment) 
 
-Analyzed restaurant data using Python (Pandas, NumPy, Seaborn, Matplotlib) to identify top-performing “star” restaurants and generate recommendation insights.
-Performed data cleaning, exploratory analysis, and developed ranking matrices to support data-driven decision-making.
+Completed the IBM Data Science Capstone Project analyzing SpaceX Falcon 9 launch data.
+Collected data via API and web scraping, performed data cleaning, visualization, and geospatial analysis to uncover key factors affecting first stage landing success.
+Built and evaluated machine learning models (Logistic Regression, Decision Tree, SVM, KNN) to predict landing outcomes with ~83% accuracy.
+Delivered an interactive dashboard with Plotly and Folium to present insights to stakeholders. 
 
-🔗 [View Project](https://github.com/Pankati/project1/tree/main)
+🔗 [View Project](https://github.com/Pankati/Capstone)
 
 ---
 
-### 🚗 Determinants of Vehicle Loan Default
-**Tools:** Python (Pandas, numpy, matplotlib, Seaborn), Jupyter Notebook  
+### 📂 Data Analyst Job Market Trends Dataset (IBM Data Analyst Capstone Project)
+**Tools:** Python (Pandas, NumPy, Matplotlib, Seaborn), SQL (for querying and analysis), IBM Cognos Analytics (for dashboard creation), Jupyter Notebook  
 
-Analyzed vehicle loan data to identify key determinants of loan default using Python (Pandas, NumPy, Seaborn, Matplotlib).
-Performed data cleaning, variable transformation, and exploratory analysis to uncover patterns in borrower behavior and risk factors
-
-🔗 [View Project](https://github.com/Pankati/project2)
+Completed the IBM Data Analyst Capstone Project, analyzing a dataset using Python, SQL, and dashboarding tools.
+Applied data wrangling, exploratory analysis, visualization, and reporting to generate actionable insights and present findings in a business-focused format.  
+🔗 [View Project](https://github.com/Pankati/Data-Analyst-Capstone)
 
 ---
 
@@ -34,27 +35,32 @@ Built and evaluated a predictive model after performing data cleaning, explorato
 
 ---
 
+### 🚗 Determinants of Vehicle Loan Default
+**Tools:** Python (Pandas, numpy, matplotlib, Seaborn), Jupyter Notebook  
+
+Analyzed vehicle loan data to identify key determinants of loan default using Python (Pandas, NumPy, Seaborn, Matplotlib).
+Performed data cleaning, variable transformation, and exploratory analysis to uncover patterns in borrower behavior and risk factors
+
+🔗 [View Project](https://github.com/Pankati/project2)
+
+---
+
+### 🍽️ Restaurant Recommendation Analysis
+**Tools:** Python (Pandas, numpy, matplotlib, Seaborn), Jupyter Notebook
+
+Analyzed restaurant data using Python (Pandas, NumPy, Seaborn, Matplotlib) to identify top-performing “star” restaurants and generate recommendation insights.
+Performed data cleaning, exploratory analysis, and developed ranking matrices to support data-driven decision-making.
+
+🔗 [View Project](https://github.com/Pankati/project1/tree/main)
+
+---
+
 ### 🛒 Online Retail Exploratory Data Analysis (EDA)
-**Tools:** Python (numpy, pandas, matplotlib, seaborn, datetime)  
+**Tools:** Python (numpy, pandas, matplotlib, seaborn, datetime) 
+
 Conducted exploratory data analysis (EDA) on an online retail dataset to identify trends in sales, customers, and products.
 Applied data cleaning, visualization, and business insight generation to support decision-making  
 🔗 [View Project](https://github.com/Pankati/Portfolio-Project-Online-Retail-Exploratory-Data-Analysis-with-Python)
-
----
-
-### 📊 IBM Data Analyst Capstone Project
-**Tools:** Python (Pandas, NumPy, Matplotlib, Seaborn), SQL (for querying and analysis), IBM Cognos Analytics (for dashboard creation), Jupyter Notebook  
-Completed the IBM Data Analyst Capstone Project, analyzing a dataset using Python, SQL, and dashboarding tools.
-Applied data wrangling, exploratory analysis, visualization, and reporting to generate actionable insights and present findings in a business-focused format.  
-🔗 [View Project](https://github.com/Pankati/Data-Analyst-Capstone)
-
----
-
-### 🤖 IBM Data Science Capstone Project 
-**Tools:** - Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn), SQL (for querying and preprocessing), Jupyter Notebook, IBM Watson Studio / Cloud services (for deployment)  
-Completed the IBM Data Science Capstone Project, applying data collection, cleaning, exploratory analysis, machine learning, and model deployment techniques.
-Built and evaluated a predictive model and published results via a dashboard / report, demonstrating end-to-end data science workflow. 
-🔗 [View Project](https://github.com/Pankati/Capstone)
 
 ---
 
