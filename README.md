@@ -34,9 +34,10 @@ Built and evaluated a predictive model after performing data cleaning, explorato
 
 ---
 
-### 🛍️ Online Retail Exploratory Data Analysis with Python
-**Tools:** Power BI, Excel  
-Built a dynamic dashboard to explore product and regional sales performance using historical retail data.  
+### 🛒 Online Retail Exploratory Data Analysis (EDA)
+**Tools:** Python (numpy, pandas, matplotlib, seaborn, datetime)  
+Conducted exploratory data analysis (EDA) on an online retail dataset to identify trends in sales, customers, and products.
+Applied data cleaning, visualization, and business insight generation to support decision-making  
 🔗 [View Project](https://github.com/Pankati/Portfolio-Project-Online-Retail-Exploratory-Data-Analysis-with-Python)
 
 ---
