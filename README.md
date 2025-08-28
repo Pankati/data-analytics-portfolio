@@ -42,16 +42,18 @@ Applied data cleaning, visualization, and business insight generation to support
 
 ---
 
-### 🔌 IBM Data Analyst Capstone Project
-**Tools:** Python, Excel, Cognos Analytics  
-Built interactive dashboards and KPIs. Presented actionable insights to simulate real-world stakeholder reporting.  
+### 📊 IBM Data Analyst Capstone Project
+**Tools:** Python (Pandas, NumPy, Matplotlib, Seaborn), SQL (for querying and analysis), IBM Cognos Analytics (for dashboard creation), Jupyter Notebook  
+Completed the IBM Data Analyst Capstone Project, analyzing a dataset using Python, SQL, and dashboarding tools.
+Applied data wrangling, exploratory analysis, visualization, and reporting to generate actionable insights and present findings in a business-focused format.  
 🔗 [View Project](https://github.com/Pankati/Data-Analyst-Capstone)
 
 ---
 
-### 🎵 Applied Data Science Capstone 
-**Tools:** Python (Pandas, Plotly, Seaborn), Jupyter Notebook  
-Developed interactive dashboards. Summarized insights for operational improvements.  
+### 🤖 IBM Data Science Capstone Project 
+**Tools:** - Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn), SQL (for querying and preprocessing), Jupyter Notebook, IBM Watson Studio / Cloud services (for deployment)  
+Completed the IBM Data Science Capstone Project, applying data collection, cleaning, exploratory analysis, machine learning, and model deployment techniques.
+Built and evaluated a predictive model and published results via a dashboard / report, demonstrating end-to-end data science workflow. 
 🔗 [View Project](https://github.com/Pankati/Capstone)
 
 ---
