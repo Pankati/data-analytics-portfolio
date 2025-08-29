@@ -64,6 +64,15 @@ Applied data cleaning, visualization, and business insight generation to support
 
 ---
 
+### 🦠 COVID-19 Data Visualization Project
+**Tools:** R (`readr`, `ggplot2`, `dplyr` )
+
+Analyzed global COVID-19 spread (Dec 2019 – Mar 2020) using Johns Hopkins data; built time-series visualizations in R to track case growth.
+Identified China vs. global trends, anomalies from reporting shifts, and insights aligning with WHO pandemic declaration.  
+🔗 [View Project](https://github.com/Pankati/Covid19)
+
+---
+
 ## 🧰 Skills
 
 - **Languages:** R, SQL, Python (basic)
