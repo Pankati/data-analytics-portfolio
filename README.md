@@ -82,5 +82,6 @@ Identified China vs. global trends, anomalies from reporting shifts, and insight
 ## 📜 Certifications
 
 - Google Advanced Data Analytics
+- Google Data Analytics
 - IBM Data Analyst Professional Certificate
 - IBM Data Science Specialization
